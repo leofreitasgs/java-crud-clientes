@@ -17,13 +17,16 @@ Revisar e fortalecer conceitos fundamentais da linguagem Java e organização em
 - Menu interativo via terminal
 
 ##  Estrutura do Projeto
+
+```
 src/
 ├── main/
-│ └── Main.java
+│   └── Main.java
 ├── model/
-│ └── Cliente.java
+│   └── Cliente.java
 └── service/
-└── ClienteService.java
+    └── ClienteService.java
+```
 
 
 ##  Funcionalidades
